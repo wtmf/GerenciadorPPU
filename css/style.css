@@ -1,0 +1,14 @@
+.btn-default {
+    color: #333;
+    background-color: #FFF;
+    border-color: #CCC;
+    padding: 2px !important;
+    padding-right: 5px !important;
+    padding-left: 5px !important;
+    height: 28px !important;
+    
+}
+
+.indice li{
+	margin-bottom: 10px;
+}
